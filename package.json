@@ -1,0 +1,9 @@
+{
+  "name": "algorithmic-stablecoin-lite",
+  "version": "1.0.0",
+  "description": "Seigniorage-based stablecoin smart contracts",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.1"
+  }
+}
